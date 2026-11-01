@@ -1,0 +1,92 @@
+{
+ "guidance": 2.0,
+ "steps": 24,
+ "temp": 0.8,
+ "model": "skingen-mini (this repo, 300 epochs)",
+ "selection": "4-6 seeds per prompt generated, the best picked by hand",
+ "examples": {
+  "ex_00": {
+   "prompt": "pirate, girl, slim",
+   "seed": 0
+  },
+  "ex_02": {
+   "prompt": "cute, pastel, girl, slim",
+   "seed": 0
+  },
+  "ex_03": {
+   "prompt": "anime, boy, white hair, classic",
+   "seed": 4
+  },
+  "ex_04": {
+   "prompt": "girl, long hair, red dress, classic",
+   "seed": 3
+  },
+  "ex_05": {
+   "prompt": "boy, blond hair, white hoodie, classic",
+   "seed": 5
+  }
+ },
+ "gallery": [
+  {
+   "prompt": "girl, cat ears, cute, slim",
+   "seed": 2
+  },
+  {
+   "prompt": "girl, pink hair, pink hoodie, slim",
+   "seed": 1
+  },
+  {
+   "prompt": "girl, black hair, black hoodie, slim",
+   "seed": 2
+  },
+  {
+   "prompt": "egirl, girl, black hair, slim",
+   "seed": 2
+  },
+  {
+   "prompt": "girl, angel, halo, white dress, slim",
+   "seed": 4
+  },
+  {
+   "prompt": "boy, eboy, black hoodie, classic",
+   "seed": 3
+  },
+  {
+   "prompt": "girl, kimono, flower, slim",
+   "seed": 1
+  },
+  {
+   "prompt": "girl, kimono, flower, slim",
+   "seed": 3
+  },
+  {
+   "prompt": "girl, purple hair, cute, slim",
+   "seed": 2
+  },
+  {
+   "prompt": "girl, purple hair, cute, slim",
+   "seed": 4
+  }
+ ],
+ "demo_gif": [
+  {
+   "prompt": "pirate, girl, slim",
+   "seed": 0
+  },
+  {
+   "prompt": "anime, boy, white hair, classic",
+   "seed": 4
+  },
+  {
+   "prompt": "girl, kimono, flower, slim",
+   "seed": 3
+  }
+ ],
+ "textures": [
+  "ex_00",
+  "ex_02",
+  "ex_03",
+  "ex_04",
+  "ex_05"
+ ]
+}

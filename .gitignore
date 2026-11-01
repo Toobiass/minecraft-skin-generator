@@ -1,0 +1,27 @@
+# Daten: nur die Beschreibung + Beispiel ins Repo, keine Skins
+data/*
+!data/README.md
+!data/tags.example.json
+
+# Trainings-Ausgaben und Gewichte
+runs/
+out/
+*.pth
+*.pt
+*.onnx
+*.safetensors
+weights/
+hf/
+
+# lokal
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# persönliche Notizen
+TODO.md
+lernen/

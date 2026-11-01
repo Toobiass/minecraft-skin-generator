@@ -1,0 +1,5 @@
+[
+  {"id": "0001", "tags": ["pirate", "beard", "red bandana"], "model": "classic"},
+  {"id": "0002", "tags": ["girl", "long hair", "brown hair", "purple hoodie", "jeans"], "model": "slim"},
+  {"id": "0003", "tags": ["frog", "hoodie", "cute"], "model": "slim"}
+]

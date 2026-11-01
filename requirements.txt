@@ -1,0 +1,6 @@
+torch>=2.1
+torchvision
+pillow
+numpy
+tqdm
+safetensors         # packed weights (export_weights.py)
